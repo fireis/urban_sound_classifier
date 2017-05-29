@@ -1,0 +1,1 @@
+ This project was created for the Udacity Machine Learning Engineer Nanodegree. The users should have downloaded the UrbanSounds8K dataset, available at https://serv.cusp.nyu.edu/projects/urbansounddataset/urbansound8k.html and python_speech_features library available at https://github.com/jameslyons/python_speech_features
